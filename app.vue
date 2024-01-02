@@ -4,7 +4,7 @@ import { WeddingBlock } from "@/types";
 const data = json as WeddingBlock;
 const timesAddress: string[] = data.times.address.split('|');
 useHead({
-  title: 'Wedding Phong ♡ Miền'
+  title: 'Wedding Tân ♡ Thu'
 })
 </script>
 
