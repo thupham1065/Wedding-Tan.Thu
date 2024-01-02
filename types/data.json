@@ -1,0 +1,43 @@
+{
+    "mainPicture": "/images/anh-nen-1.jpg",
+    "wifeName": "Thu Phạm",
+    "husbandName": "Quang Tân",
+    "wifeFamily": {
+        "motherName": "Nguyễn Thị Mai",
+        "fatherName": "Phạm Xuân Lang",
+        "address": "Đại Lợi - Cát Nhơn - Phù Cát - Bình Định"
+    },
+    "husbandFamily": {
+        "motherName": "Đặng Khánh",
+        "fatherName": "Huỳnh Thị Đa",
+        "address": "Xuyên Nghĩa - Đức Xuyên - Krông Nô - Đăk Nông"
+    },
+    "times": {
+        "day": "27/01/2024",
+        "dayOfWeek": "Thứ Bảy",
+        "lunar": "(Nhằm ngày 17 tháng 12 năm Quý Mão)",
+        "time": "12h00",
+        "address": "Nhà hàng Du Ký|Sảnh Venus|103A Đ. Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1"
+    },
+    "timeLine": {
+        "talk": "18:00",
+        "welcome": "19:00",
+        "party": "19:15"
+    },
+    "albums": [
+        "/images/album-1.jpg",
+        "/images/album-2.jpg",
+        "/images/album-3.jpg",
+        "/images/album-4.jpg",
+        "/images/album-5.jpg",
+        "/images/album-6.jpg",
+        "/images/album-7.jpg",
+        "/images/album-8.jpg",
+        "/images/album-9.jpg",
+        "/images/album-10.jpg",
+		"/images/album-11.jpg",
+        "/images/album-12.jpg"
+		"/images/album-13.jpg",
+        "/images/album-14.jpg"
+    ]
+}
