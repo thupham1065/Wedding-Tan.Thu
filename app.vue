@@ -77,7 +77,7 @@ useHead({
         <div style="font-size: 20px;" class="font-jura mt-3 mb-5">{{ timesAddress[2] }}</div>
       </div>
 
-      <div class="d-block m-auto" style="max-width: 250px;">
+      <div class="d-block m-auto" style="max-width: 370px;">
         <img src="images/anh-nen-2.jpg" alt="ảnh nền" style="border-radius: 10%;" loading="lazy" />
       </div>
 
